@@ -1,0 +1,13 @@
+/* STREAMING_CHUNK:Configuring custom styles and typography... */
+body {
+font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.btn-hover:hover {
+transform: translateY(-4px);
+box-shadow: 0 15px 30px -10px rgba(0, 0, 0, 0.15);
+}
+
+.btn-active:active {
+transform: translateY(1px);
+}
